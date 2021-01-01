@@ -28,5 +28,5 @@ jobs:
       with:
         app-name: 'almivtest3'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9615e76fbe814c1181e8ecc7714b51cb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bdb2382cb71c49c592caf7093b9af045 }}
         package: '${{ github.workspace }}/target/*.war'
