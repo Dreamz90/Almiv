@@ -8,10 +8,10 @@
 <meta charset="ISO-8859-1">
 <title>Home</title>
 <link
-	href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
 	rel="stylesheet" />
 <link
-	href="${pageContext.request.contextPath}/resources/css/datatable.css"
+	href="../resources/css/datatable.css"
 	rel="stylesheet" />
 <link
 	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
